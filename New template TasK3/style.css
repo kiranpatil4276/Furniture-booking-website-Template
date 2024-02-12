@@ -1,0 +1,416 @@
+.section1{
+    height: 584px;
+    background-image: url(Bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sec1 h3{
+    text-align: center;
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.sec2{
+    padding-top: 222px;
+}
+
+.sec2,.subp{
+    text-align: center;
+    color: white;
+    font-size: 16px;
+}
+
+.explore-btn{
+    background-color: #6dbebf;
+    color: white;
+    left: 0;
+    right: 0;
+    margin: auto;
+    bottom: 50px;
+    width: fit-content;
+    border-radius: 1px;
+}
+
+
+.section2{
+    height: 584px;
+    background-color:white ;
+     color: #667675;
+}
+.icon{
+    display: flex;
+    justify-content: end;
+    gap: 8px;
+    text-align: center;
+}
+.navbtn{
+    width: 110px;
+    border: 1px;
+    height: 34px;
+    border-radius: 20px;
+    background-color: #79cacb;
+}
+.searchicon{
+  font-size: 23px;
+}
+.buyicon{
+    font-size: 23px;
+  }
+
+  .contnetsec2 h1{
+    text-transform: uppercase;
+    font-size: 15px;
+    text-align: center;
+
+
+  }
+.icon1{
+    text-align: center;
+    font-size: 40px;
+}
+.sec2text{
+ text-align: center;
+}
+.sec2text2{
+    text-align: center;
+    font-size: 13px;
+}
+
+
+.btn-section2{
+        background-color: #6dbebf;
+    color: white;
+    left: 0;
+    right: 0;
+    margin: auto;
+    bottom: 50px;
+    width: fit-content;
+    border-radius: 1px;
+    margin-top: 75px;
+    border-radius: 21px;
+}
+
+
+
+.section3{
+    height: 390px;
+    background-color:white ;
+    
+}
+.sec3col1{
+   width: 50%;
+  
+  height: 390px;
+}
+.sec3col2{
+    width: 50%;
+    height: 390px;
+    background-image: url(imgsec3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.section3-btn{
+background-color: #78c1c7;
+border-radius: 25px;
+width: 139px;
+}
+
+.content-section3{
+    font-size: 13px;
+}
+
+
+
+.section4{
+    height: 390px;
+    background-color:white ;
+}
+
+.contentsec4{
+    width: 50%;
+    height: 390px;
+    background-image: url(Chairs.png.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.section4-btn {
+    background-color: #78c1c7;
+border-radius: 25px;
+width: 150px;
+
+}
+.section5{
+    height: 300px;
+    width: 100%;
+    background-color: #f6f5f3;
+
+}
+.contentsection5,h3{
+ text-align: center;
+ color: #6b6b65;
+ text-transform: uppercase;
+}
+
+.logo1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+.logo2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+.logo3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+.logo4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+
+.section7{
+    height: 545px;
+    width: 100%;
+    background-color:white ;
+ display: flex;
+
+}
+
+.container-section7,.section7-p1{
+    color: #33494c;
+    font-size: 26px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      padding-left: 10px;
+}
+.section7-p2{
+    font-size: 16px;
+}
+.section7-btn{
+    background-color: #71c6cb;
+    color: white;
+    border-radius: 40px;
+    width: 193px;
+}
+
+.section7-img1{
+    height: 310px;
+    width: 380px;
+    
+}
+
+.section7-img2{
+    position: relative;
+    height: 200px;
+    width: 300px;
+    margin-top: -63px;
+    margin-left: 150px;
+}
+
+
+
+.section8{
+    height: 390px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 220px;
+   color:#afb8b7;
+}
+.section8-p1{
+    font-size: 23px;
+}
+
+.section8-content2{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.section8-p2{
+    margin-left: 291px;
+    color: #b3c1c0;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.section8-p3{
+    color: #2c847e;
+    margin-left:240px ;
+    padding-top: 22px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+
+.section9{
+    
+    background-color: whitesmoke;
+    padding-top: 29px;
+    
+
+}
+.section9-row{
+    color: black;
+}
+
+.sec9-p{
+    font-size: 16px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    padding-top: 2px;
+}
+.section9-row2{
+    padding-top: 100px;
+    color: black;
+}
+
+
+
+.section10{
+    height: 300px;
+    width: 100%;
+    margin-top: 115px;
+    color: #1a5b5b;
+    display: flex;
+    justify-content: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section10 p{
+    font-size: 28px;
+}
+.section10-btn{
+   margin-top: 96px;
+   margin-left: -238px;
+   background-color: #6dbfbd;
+   color: white;
+   border-radius: 32px;
+   width: 135px;
+ padding-bottom: 1px;
+
+}
+.section11{
+    height: 300px;
+    width: 100%;
+    background-color: #06201f;
+}
+.text1{
+    color: white;
+    margin-top: 44px;
+    font-size: 21px;
+    margin-left: -217px;
+}
+.section10-text{
+    font-size: 10px;
+    color: white;
+    margin-left: 51px;
+    
+
+}
+
+.section10-text2{
+    font-size: 10px;
+    color: white;
+    margin-left: 51px;
+    color: white;
+    height: 32px;
+    width: 281px;
+    background-color: #06201f;
+    
+}
+
+.section11-btn{
+    position: absolute;
+    border: none;
+    margin-left: -83px;
+    background-color: #06201f;
+    color: white;
+}
+ 
+.social-media{
+    color: white;
+    display: flex;
+    column-gap: 4px;
+    
+}
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 1px;
+    
+  }
+  .dot .icon11{
+    font-size: 19px;
+    margin-left: 2px;
+     background-color: #1a5b5b;
+   
+  }
+  .foo-col2{
+    color: white;
+    margin-left: 612px;
+    margin-top: -181px;
+
+  }
+  .foo-col3{
+    color: white;
+    margin-left: 730px;
+    margin-top: -39px;
+    
+
+  }
+
+  
+  .text-small {
+    font-size: 0.9rem;
+  }
+  
+  a {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.3s;
+  }
+  
+  a:hover, a:focus {
+    text-decoration: none;
+  }
+  
+  
+  
+  footer {
+    background: #212529;
+  }
+  
+  .text-white{
+    font-size: 26px;
+
+  }
+  .text-muted a{
+    color: #4f6467;
+  }
+
+  .text-muted p{
+    color:#4f6467;
+  }
+
+  .text-white1{
+    color:#4f6467;
+  }
+  .search1{
+    background: #333c45;
+    color: #4f6467;
+    width: 242px;
+
+  }
+  .btn-foot{
+        margin-left: -91px;
+        border: none;
+        background-color: transparent;
+        color: white;
+        border-radius: 0;
+        
+  }
